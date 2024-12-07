@@ -51,4 +51,4 @@ The chair for Traffic Engineering focusses on following tasks:
 
 The chair for Transport Planning focusses on following tasks:
 - **Travel Behaviour:** Elaboration of new knowldege and techniques in order to observe, measure, describe, model and assess spatial behaviour, especially travel behaviour.
-- **Demand and netowrk models:** Transfering travel behaviour to demand and network models through education and applied research, in order to economically assess behaviour modifications.
+- **Demand and network models:** Transfering travel behaviour to demand and network models through education and applied research, in order to economically assess behaviour modifications.
